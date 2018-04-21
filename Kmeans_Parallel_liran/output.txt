@@ -1,0 +1,8 @@
+First occurrence at t = 1.000000 with q = 0.009593
+Centers of the clusters:
+Id: 0, ( -0.399552 , 0.050938 )
+Id: 1, ( -0.236220 , 100.237794 )
+Id: 2, ( 99.987697 , 100.002913 )
+Id: 3, ( 99.885654 , 200.302429 )
+
+execution time is: 9.069000 second
